@@ -1,0 +1,20 @@
+main{
+    margin-top: 1em;
+}
+
+section{
+    margin:1em auto;
+}
+
+.section-title{
+    margin-bottom: 1em;
+}
+
+
+div h5{
+    text-align: left;
+}
+
+.card-container{
+    margin-top: 1em;
+}
